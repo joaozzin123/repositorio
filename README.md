@@ -10,7 +10,7 @@
 </head>
 <body>
     <header>
-        <h1>Vai ser uma imagem aqui</h1>
+        <h1> </h1>
         <ul>
             <li>Professor Paulo Alberto Tomazinho</li>
             <li>Joao Pedro de Melo Cavalini</li>
