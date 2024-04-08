@@ -11,7 +11,7 @@
 <body>
     <header>
         <h1>           </h1>
-        <ul>
+         <title>MEREÇO NOTA MÀXIMA</title>
             <li>Professor Paulo Alberto Tomazinho</li>
             <li>Joao Pedro de Melo Cavalini</li>
         </ul>
